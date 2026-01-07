@@ -1,3 +1,3 @@
 # autismium
 
-Browser for boys with autism
+Browser for boys and girls with autism
